@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="20" fill="#102F35" />
+  <circle cx="50" cy="50" r="42" fill="none" stroke="#D6B66A" stroke-width="2" stroke-dasharray="2 3" opacity="0.6"/>
+  <!-- Elegant Gold Cross -->
+  <path d="M 50 16 L 50 84 M 26 38 L 74 38" stroke="#D6B66A" stroke-width="7" stroke-linecap="round"/>
+  <!-- Central Diamond Embellishment -->
+  <polygon points="50,32 56,38 50,44 44,38" fill="#FFF8E8"/>
+  <circle cx="50" cy="50" r="2" fill="#D6B66A"/>
+</svg>
